@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vypocet mzdy</string>
+    <string name="String_neznama">Zatial neznam</string>
+    <string name="StringČistámzda">Čistá mzda</string>
+    <string name="Vypocti">Prepočitaj!</string>
+    <string name="String_HrubaMzda">Hrubá mzda</string>
+    <string name="hint_castkavkc">Zadejte čiastku v korunách</string>
+    <string name="String_WrongInput">Neplatný vstup</string>
+</resources>

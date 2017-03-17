@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vypocet mzdy</string>
+    <string name="String_HrubaMzda">Hrubá mzda</string>
+    <string name="StringČistámzda">Čistá mzda</string>
+    <string name="Vypocti">Vypočti</string>
+    <string name="hint_castkavkc">Zadejte částku v Kč</string>
+    <string name="String_neznama">Zatím neznámá</string>
+    <string name="String_WrongInput">Špatný vstup!</string>
+</resources>
